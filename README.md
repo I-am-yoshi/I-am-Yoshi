@@ -1,6 +1,6 @@
 👋 Hi, I’m @I-am-Yoshi. Student of Software Development at Puc Minas.
 
-👀 I’m interested in Data, Software Development and Low Code.
+👀 I’m interested in Web Developer-front end.
 
 🌱 I’m currently learning C#, Algorithms, HTML, CSS and Javascript.
 
