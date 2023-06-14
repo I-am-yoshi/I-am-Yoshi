@@ -4,6 +4,10 @@
 
 🌱 I’m currently learning C#, Algorithms, HTML, CSS and Javascript.
 
+🌱 I study - Technician Specialist in Multimedia Product Development7 Cinel Lisbon
+
+🌱 I study - Systems Analysis and Development - Technologist/ Puc Minas
+
 💞️ I’m looking to progress on my new career as developer.
 
 📫 How to reach me
