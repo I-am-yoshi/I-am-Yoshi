@@ -1,6 +1,6 @@
 👋 Hi, I’m @I-am-Yoshi. Student of Software Development at Puc Minas
 
-🌱 Student of Technician Specialist in Multimedia Product Development7 at Cinel Lisbon
+🌱 Student of Technician Specialist in Multimedia Product Development at Cinel Lisbon
 
 👀 I’m interested in Web Developer-front end.
 
