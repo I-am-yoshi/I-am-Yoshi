@@ -1,4 +1,4 @@
-👋 Hi, I’m @I-am-Yoshi. Student of Software Development at Puc Minas
+👋 Hi, I’m Renata. Student of Software Development at Puc Minas
 
 🌱 Student of Technician Specialist in Multimedia Product Development at Cinel Lisbon
 
